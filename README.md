@@ -37,6 +37,6 @@ s<sub>2</sub> d<sub>2</sub> k<sub>2</sub>
 s<sub>Q</sub> d<sub>Q</sub> k<sub>Q</sub>  
 
 1行目に地点の座標の数N、道の数M、追加される点の座標の数P、経路の問い合わせの数Qが、空白区切りで与えられる。  
-続くN行に地点のx,y座標が整数で与えられる。x<sub>i</sub> y<sub>i</sub>はi番目の地点のx,y座標を表す。続くM行に道の情報が与えられる。b<sub>i e<sub>iは番目の道が、地点番号b<sub>i</sub>と地点番号e<sub>i</sub>を結んだ線分として与えられていることを表す。  
+  続くN行に地点のx,y座標が整数で与えられる。x<sub>i</sub> y<sub>i</sub>はi番目の地点のx,y座標を表す。続くM行に道の情報が与えられる。b<sub>i</sub> e<sub>i</sub>は番目の道が、地点番号b<sub>i</sub>と地点番号e<sub>i</sub>を結んだ線分として与えられていることを表す。  
 続くP行に追加される地点のx,y座標が与えられる。x<sub>N+i</sub> y<sub>N+i</sub>はi番目の追加地点のx,y座標を表す。  
 続くQ行に経路を求める始点と終点が与えられる。s<sub>i</sub> d<sub>i</sub>はそれぞれi番目の問い合わせの始点と終点の地点番号を表し、k<sub>i</sub>はk番目までの最短経路について問い合わせていることを表す。  
