@@ -30,7 +30,7 @@ b<sub>M</sub> e<sub>M</sub>
 x<sub>N+1</sub> y<sub>N+1</sub>  
 x<sub>N+2</sub> y<sub>N+2</sub>  
 :  
-x<sub>N+P y<sub>N+P  
+x<sub>N+P</sub> y<sub>N+P</sub>  
 s<sub>1</sub> d<sub>1</sub> k<sub>1</sub>  
 s<sub>2</sub> d<sub>2</sub> k<sub>2</sub>  
 :  
